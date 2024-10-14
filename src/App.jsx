@@ -9,6 +9,7 @@ function App() {
   return (
     <>
       <h1>Hallo! </h1>
+      <h2>dynamic</>
         </>
   )
 }
